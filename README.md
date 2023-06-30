@@ -1,16 +1,14 @@
-### Hi there 👋
+- 🌱 현재 배우는 중인 벡엔드 개발자 김준수입니다.
 
-<!--
-**padomay1352/padomay1352** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+email : padomay1352@gmail.com
 
-Here are some ideas to get you started:
+Portpolio : https://www.notion.so/c076f39dcce74e3d939277082210348a?pvs=4
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Language
+java python
+
+database
+Mysql, MariaDB
+
+DevOps
+docker, aws
