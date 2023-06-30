@@ -6,14 +6,14 @@ Portpolio : [https://www.notion.so/c076f39dcce74e3d939277082210348a?pvs=4]([http
 
 # Skills
 ### Language
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/c11094ca-3c87-44ba-9803-479add07faef)
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/30a4c3bb-b159-4997-8881-43145099b4f4)
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/c11094ca-3c87-44ba-9803-479add07faef){: width="100" height="100"}
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/30a4c3bb-b159-4997-8881-43145099b4f4){: width="100" height="100"}
 
 ### database
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/79f84ee1-1dc1-4cf4-ab18-4a1f146c9886)
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/7ca746cd-00e7-4061-982f-543045d39d78)
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/79f84ee1-1dc1-4cf4-ab18-4a1f146c9886){: width="150" height="100"}
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/7ca746cd-00e7-4061-982f-543045d39d78){: width="150" height="100"}
 
 
 ### DevOps
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/3c3923e2-f70f-4a3a-b5a1-c8bcf12510ee)
-![image](https://github.com/padomay1352/padomay1352/assets/19688616/4167b75e-7d6c-434d-a162-56aef88e0188)
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/3c3923e2-f70f-4a3a-b5a1-c8bcf12510ee){: width="100" height="100"}
+![image](https://github.com/padomay1352/padomay1352/assets/19688616/4167b75e-7d6c-434d-a162-56aef88e0188){: width="100" height="100"}
