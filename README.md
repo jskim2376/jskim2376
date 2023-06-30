@@ -9,7 +9,10 @@ Portpolio : [https://airy-specialist-68f.notion.site/c076f39dcce74e3d93927708221
 ### Backend
 <img src="https://github.com/padomay1352/padomay1352/assets/19688616/c11094ca-3c87-44ba-9803-479add07faef" width="100" height="100">
 <img src="https://github.com/padomay1352/padomay1352/assets/19688616/5ff9c053-088e-4d85-ab50-002bd902c5f7" width="150" height="100">
+<img src="https://github.com/padomay1352/padomay1352/assets/19688616/455bec5c-c7a6-4a5c-b8f8-3538857f7c64" width="150" height="100">
 <img src="https://github.com/padomay1352/padomay1352/assets/19688616/30a4c3bb-b159-4997-8881-43145099b4f4" width="150" height="100">
+<img src="https://github.com/padomay1352/padomay1352/assets/19688616/ec30e598-a4b7-443d-bd19-a88b6f749e1b" width="150" height="100">
+<br>
 <img src="https://github.com/padomay1352/padomay1352/assets/19688616/79f84ee1-1dc1-4cf4-ab18-4a1f146c9886" width="150" height="100">
 <img src="https://github.com/padomay1352/padomay1352/assets/19688616/7ca746cd-00e7-4061-982f-543045d39d78" width="150" height="100">
 <br>
