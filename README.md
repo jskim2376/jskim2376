@@ -2,7 +2,7 @@
 ### 🌱 벡엔드 개발자 김준수입니다.
 email : padomay1352@gmail.com
 
-Portpolio : [https://airy-specialist-68f.notion.site/c076f39dcce74e3d939277082210348a?pvs=4](https://airy-specialist-68f.notion.site/c076f39dcce74e3d939277082210348a?pvs=4)
+Portpolio : [https://www.notion.so/c076f39dcce74e3d939277082210348a?pvs=4](https://www.notion.so/c076f39dcce74e3d939277082210348a?pvs=4)
 <br>
 <br>
 # Skills
