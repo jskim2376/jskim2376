@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=padomay1352&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
-### 🌱 벡엔드 개발자 김준https://github.com/jskim2376/padomay1352/tree/main수입니다.
+### 🌱 벡엔드 개발자 김준수입니다.
 email : jskim376@gmail.com
 <br>
 <br>
