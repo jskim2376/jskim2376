@@ -10,9 +10,9 @@
 
 ## Backend
 
-| Java | Spring | JPA | CentOS |
-| --- | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="64"> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64"> | <img src="https://github.com/padomay1352/marklog/assets/19688616/b2184cf3-3588-4975-b96b-6bc0bcd37841" width="96"> | <img src="https://github.com/jskim2376/jskim2376/assets/19688616/a9eda63b-0d8c-46af-8aff-07e669187535" width="96"> |
+| Java | Spring | JPA | 
+| --- | --- | --- |
+| <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="64"> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="64"> | <img src="https://github.com/padomay1352/marklog/assets/19688616/b2184cf3-3588-4975-b96b-6bc0bcd37841" width="96"> |
 
 <!-- ## Frontend
 
