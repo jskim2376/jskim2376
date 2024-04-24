@@ -1,8 +1,8 @@
 # 김준수입니다
 
-✉️ **Email**: jskim2376@gmail.com
-
 📱 **Phone**: 010-2376-6222
+
+✉️ **Email**: jskim2376@gmail.com
 
 📽️ **Blog**: https://velog.io/@padomay1352/posts
 
