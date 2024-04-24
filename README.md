@@ -20,7 +20,7 @@
 | --- | --- | --- |
 | <img src="https://github.com/jskim2376/jskim2376/assets/19688616/8d336894-a5a0-4895-a99b-ea5177f0be92" width="96" height="96"> | <img src="https://github.com/jskim2376/jskim2376/assets/19688616/48201ee6-01eb-4388-b9e2-e63de3337f76" width="96"> | <img src="https://github.com/jskim2376/jskim2376/assets/19688616/c8832ed2-ffe5-4f28-99d2-f13b20654f0b" width="96"> | -->
 
-## DevOps
+## Deploy
 
 | MySQL | AWS | Docker | NGINX | Jenkins |
 | --- | --- | --- | --- | --- |
